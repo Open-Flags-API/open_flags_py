@@ -15,14 +15,17 @@ pip install open_flags
 Retrieving an SVG
 
 
-```
+```py
 from open_flags import get_flag_svg
 
 svg_content = get_flag_svg('usa', 'colorado')
 print(svg_content)
+```
+
+
 Getting All Flags
-python
-Copy code
+
+```py
 from open_flags import get_all_flags
 
 flags = get_all_flags()
