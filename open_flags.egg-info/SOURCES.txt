@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+open_flags/__init__.py
+open_flags/flag_functions.py
+open_flags/flag_map.py
+open_flags/generate_flag_map.py
+open_flags.egg-info/PKG-INFO
+open_flags.egg-info/SOURCES.txt
+open_flags.egg-info/dependency_links.txt
+open_flags.egg-info/top_level.txt
+tests/__init__.py
+tests/test_flags.py
