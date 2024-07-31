@@ -2,6 +2,8 @@
 
 `open_flags` is a lightweight Python library for handling flag SVGs. It provides functions to fetch and display SVG flags based on country and region codes. This library is perfect for integrating into web applications or other Python projects.
 
+For more information, visti the [Open Flags Docs](https://docs.openflags.net/implementations/python/)
+
 ## Installation
 
 Install the package via pip:
